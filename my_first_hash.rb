@@ -36,8 +36,7 @@ def adding
                   "porcelain vases" => 2, 
                   "oil paintings" => 3
                  }
-  shipping_manifest["muskets"] = 2
-  shipping_manifest["hun powder"] = 4
+  shipping_manifest[""]
 
    return shipping_manifest
 end
